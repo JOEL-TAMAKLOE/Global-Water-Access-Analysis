@@ -8,7 +8,8 @@ A data analysis project examining global access to drinking water using country-
 ```plaintext
 │
 ├── data          
-   ├── Global water ac.md   #  Data          
+   ├── Global water ac.md   # Global Water Access Data and Documentation 
+├── gitattributes           # Specifying file handling: treats the .xlsx file as Excel          
 └── README.md               # Overview of the Project
 ```
 ---
