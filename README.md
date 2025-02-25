@@ -1,10 +1,31 @@
-# Global-Water-Access-Analysis
+# Global Water Access Analysis
 
 A data analysis project examining global access to drinking water using country-level statistics. Based on WHO/UNICEF Joint Monitoring Programme (JMP) data.
 
+![Water Access Visualization Concept](https://via.placeholder.com/800x400.png?text=Water+Access+Visualization)
+---
+
+## Repository Structure
+Global-Water-Access-Analysis/
+├── README.md
+└── (other files)
+
+---
+
+## Data
+The dataset used in this analysis is hosted online for easy access and collaboration:
+- [Global Water Access Dataset (Google Sheets)](https://docs.google.com/spreadsheets/d/1v4xily2snSJEiRmktoXqQkh0P_pzxuD_MPhK5Nu1aM0/edit?usp=sharing)
+
+---
 
 ## Dataset Overview
-**File:** `Global Drinking Water Access.xlsx`
+### Key Metrics:
+- Total global population without safe water: **2.2 billion**
+- Urban populations with basic water access: **97.6% (max)** vs **37.2% (min)**
+- Rural populations using surface water: **40.5% (max)**
+- Income group correlation:
+  - High-income countries: **99.9%** basic access
+  - Low-income countries: **46.9%** basic access
 
 ### Sheets:
 1. **Estimates-on-the-use-of-water-(**
@@ -25,22 +46,26 @@ A data analysis project examining global access to drinking water using country-
      - Comparative analysis between urban/rural populations
      - Statistical measures (standard deviation, quartiles)
 
-3. **Visuals/Pivot Tables**
-    - National population vs Urban and rural share
-    - National distribution of access to water per service level
-    - Urban distribution of access per service level
-    - Rural distribution of access per service level
+3. **Global 2020 report**
 
-## Key Metrics
-- Total global population without safe water: **2.2 billion**
-- Urban populations with basic water access: **97.6% (max)** vs **37.2% (min)**
-- Rural populations using surface water: **40.5% (max)**
-- Income group correlation:
-  - High-income countries: **99.9%** basic access
-  - Low-income countries: **46.9%** basic access
+
+---
 
 ## Usage
-1. **Data Exploration**:
+ **Data Exploration**:
    ```excel
-   =SUM('Estimates-on-the-use-of-water-('!E2:E214)*1000  // Total population calculation
-   =AVERAGE('Estimates-on-the-use-of-water-('!K2:K214)   // Average basic water access
+   - Access the dataset via the [Google Sheets link](https://docs.google.com/spreadsheets/d/1v4xily2snSJEiRmktoXqQkh0P_pzxuD_MPhK5Nu1aM0/edit?usp=sharing).
+
+---
+
+## Contributing
+Contributions welcome! Please:
+1. Fork the repository
+2. Create feature branch
+3. Submit PR with documentation
+
+---
+
+## License
+CC BY 4.0 - Credit original data to WHO/UNICEF JMP
+
