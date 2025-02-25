@@ -1,1 +1,5 @@
+# Treat .xlsx files as Excel files for GitHub language detection
 *.xlsx linguist-language=Excel
+
+# Ensure consistent line endings for text files
+*.md text eol=lf
