@@ -2,7 +2,6 @@
 
 A data analysis project examining global access to drinking water using country-level statistics. Based on WHO/UNICEF Joint Monitoring Programme (JMP) data.
 
-![Water Access Visualization Concept](https://via.placeholder.com/800x400.png?text=Water+Access+Visualization)
 
 ## Dataset Overview
 **File:** `Global Drinking Water Access.xlsx`
