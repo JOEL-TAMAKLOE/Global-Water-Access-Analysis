@@ -4,6 +4,11 @@ A data analysis project examining global access to drinking water using country-
 
 ---
 
+## About This Project
+This repository contains data and analysis related to global water access. The primary data file is in Excel (`.xlsx`) format
+
+---
+
 ## Project Structure
 ```plaintext
 │
@@ -19,8 +24,8 @@ For detailed information about the dataset, including access and usage instructi
 
 ---
 
-## Contributing
-Contributions are welcome! Please:
+## Contribution Guidelines
+Contributions are welcome!If you have ideas for improvements, feel free to fork the repository and submit a pull request. For significant changes, please open an issue first to discuss your proposed changes.
 
 ---
 
