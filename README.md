@@ -14,7 +14,7 @@ A data analysis project examining global access to drinking water using country-
 ---
 
 ## Dataset
-For detailed information about the datas, including access and usage instructions, see the [Dataset Documentation](data/Global water ac.md).
+For detailed information about the dataset, including access and usage instructions, see the [Dataset Documentation](data/Global%20water%20ac.md).
 
 ---
 
