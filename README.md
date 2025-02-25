@@ -5,15 +5,14 @@ A data analysis project examining global access to drinking water using country-
 ---
 
 ## Repository Structure
-├── README.md
 ├── data/
 │ └── data.md
+├── README.md
 
 ---
 
-
 ## Dataset
-For detailed information about the datas, including access and usage instructions, see the [Dataset Documentation](data/data.md).
+For detailed information about the datas, including access and usage instructions, see the [Dataset Documentation](data/Global water ac.md).
 
 ---
 
